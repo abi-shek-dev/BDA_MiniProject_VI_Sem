@@ -11,7 +11,7 @@ producer = KafkaProducer(
 )
 
 TOPIC_NAME = 'ecommerce_reviews'
-DATA_FILE = 'data/dummy_reviews.csv'
+DATA_FILE = 'data/actual_reviews.csv'
 
 print(f"Starting to stream data to Kafka topic: {TOPIC_NAME}...")
 
