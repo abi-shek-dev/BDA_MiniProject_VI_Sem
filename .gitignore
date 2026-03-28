@@ -1,4 +1,3 @@
 spark_checkpoint/
 spark_checkpoint_mongo/
-data/
 __pycache__/
